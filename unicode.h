@@ -1,3 +1,7 @@
+/*
+* Author: Codezz-Ops <Codezz-ops@protonmail.com>
+*/
+
 #include <stdio.h>
 #include <stdarg.h>
 #include <wchar.h>
