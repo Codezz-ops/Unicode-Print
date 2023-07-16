@@ -7,7 +7,7 @@
 #include <wchar.h>
 #include <locale.h>
 
-int uniprint(const wchar_t* format, ...) {
+int uprint(const wchar_t* format, ...) {
     va_list args;
     va_start(args, format);
 
